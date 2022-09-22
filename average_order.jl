@@ -37,6 +37,7 @@ function avg_order(order_dist)
 end
 
 dist = order_distribution(52)
+avg_order(dist)
 
 function sparse_dist(dist)
     sparse_dist = Dict()
