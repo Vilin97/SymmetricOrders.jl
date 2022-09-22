@@ -2,7 +2,7 @@
 
 It takes 7 "perfect" shuffles to get back to the original deck of 52 cards. If this number seems low to you (and it is!), read on! Here we explore the distribution of orders in card deck shuffles, aka the symmetric group $S_{52}$. For example, interchanging the top two cards has order 2 because doing it twice results in the original deck. Putting the top card at the bottom has order 52.
 
-Joint with [Brian Nugent](https://github.com/b-nugent).
+Joint with [Brian Nugent](https://math.washington.edu/people/brian-nugent).
 
 An image is worth a thousand words.
 
